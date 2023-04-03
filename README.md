@@ -23,7 +23,7 @@
 
 I am a Native Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São Paulo, Brazil.
 
-- :telescope: I’m studying Kotlin and Android Development at moment. In parallel, I'm starting my graduation in Information Systems.
+- :telescope: I’m studying Kotlin and Android Development at moment. In parallel, I'm doing my undergrad in Information Systems.
 
 - :zap: In my free time, I love listening music (mainly metal and hard rock) and watch mobile development content.
 
