@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100"/>
+  <img src="https://media1.tenor.com/m/beoMANVJLvwAAAAC/java-dev.gif" width="25%" height="25%" />
 
 <div id="badges">
   <a href="https://linkedin.com/in/patrickviolin">
@@ -9,21 +9,14 @@
 
 <h1>
   Hey there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="375" height="100"/>
-</div>
-
----
-
 ### :man_technologist: About Me:
 
-I am a Native Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São Paulo, Brazil.
+I am a Java and Kotlin Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São Paulo, Brazil.
 
-- :telescope: I’m studying Kotlin and Android Development at moment. In parallel, I'm doing my undergrad in Information Systems.
+- :telescope: I’m studying Java, a little bit of Kotlin and Spring Boot at moment. In parallel, I'm doing my undergrad in Information Systems.
 
 - :zap: In my free time, I love listening music (mainly metal and hard rock) and watch mobile development content.
 
