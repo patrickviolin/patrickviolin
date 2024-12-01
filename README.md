@@ -1,6 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media1.tenor.com/m/beoMANVJLvwAAAAC/java-dev.gif" width="25%" height="25%" />
-
 <div id="badges">
   <a href="https://linkedin.com/in/patrickviolin">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
