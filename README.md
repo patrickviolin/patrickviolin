@@ -14,9 +14,7 @@
 
 I am a Java and Kotlin Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from São Paulo, Brazil.
 
-- :telescope: I’m studying Java, a little bit of Kotlin and Spring Boot at moment. In parallel, I'm doing my undergrad in Information Systems.
-
-- :zap: In my free time, I love listening music (mainly metal and hard rock) and watch mobile development content.
+- :telescope: At moment, I'm doing my undergrad in Information Systems. In parallel, I’m studying Python and AI.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Patrick%20Violin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/patrickviolin)
 
@@ -38,4 +36,4 @@ I am a Java and Kotlin Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ### :fire: My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrick-jk&layout=compact&theme=vision-friendly-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickviolin&layout=compact&theme=vision-friendly-dark)]()
